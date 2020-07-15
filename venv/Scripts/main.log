@@ -1,0 +1,12 @@
+2020-07-15 09:42:22,155 root INFO : Scraper Initialized
+2020-07-15 09:42:22,546 root INFO : https://www.makeuseof.com/rss Scraped
+2020-07-15 09:42:22,841 root INFO : https://planetpython.org/rss20.xml Scraped
+2020-07-15 09:42:22,952 root INFO : http://www.blog.pythonlibrary.org/feed/ Scraped
+2020-07-15 09:42:24,236 root INFO : http://blog.finxter.com/feed Scraped
+2020-07-15 09:42:24,485 root INFO : https://realpython.com/atom.xml?format=xml Scraped
+2020-07-15 09:42:24,940 root INFO : http://blog.python.org/feeds/posts/default Scraped
+2020-07-15 09:42:25,212 root INFO : https://medium.com/feed/python4you Scraped
+2020-07-15 09:42:25,448 root INFO : https://talkpython.fm/episodes/rss Scraped
+2020-07-15 09:42:25,449 root INFO :  Scraped
+2020-07-15 09:42:25,449 root INFO : File Created
+2020-07-15 09:42:27,861 root INFO : Email Sent

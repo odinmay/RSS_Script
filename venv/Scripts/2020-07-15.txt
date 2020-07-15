@@ -1,0 +1,438 @@
+How to Turn Off Find My iPhone When You Sell Your Device
+https://www.makeuseof.com/tag/how-to-turn-off-find-my-iphone/
+
+Spotify Launches Charts to Help You Find New Podcasts
+https://www.makeuseof.com/tag/spotify-charts-find-new-podcasts/
+
+How to Choose Between 32-Bit and 64-Bit Windows Operating Systems
+https://www.makeuseof.com/tag/how-to-choose-between-32-bit-64-bit-windows-7-operating-systems/
+
+Where to Download Subtitles for Movies and TV Shows: The 6 Best Sites
+https://www.makeuseof.com/tag/3-subtitle-sources-movies-tv-series/
+
+Which Wireless Router Brands Are Best? 5 Top Brands to Consider
+https://www.makeuseof.com/tag/brands-best-buying-wireless-router/
+
+The 5 Best Call Recording iPhone Apps You Can Rely On
+https://www.makeuseof.com/tag/call-recording-apps-iphone/
+
+10 Basic Programming Principles Every Programmer Must Know
+https://www.makeuseof.com/tag/basic-programming-principles/
+
+You Can Now Claim Your iPhone Batterygate Compensation
+https://www.makeuseof.com/tag/iphone-batterygate-compensation/
+
+What Do the Check Marks in WhatsApp and Telegram Mean?
+https://www.makeuseof.com/tag/checkmarks-whatsapp-telegram-mean/
+
+The Fruitiest Pi Yet: Raspberry Pi 4 8GB Is As Smooth As Cream
+https://www.makeuseof.com/tag/raspberry-pi-4/
+
+Andriy Kornatskyy: Python Templates Benchmark
+http://mindref.blogspot.com/2012/10/python-templates-benchmark.html
+
+Andriy Kornatskyy: Python Fastest Template Engine
+http://mindref.blogspot.com/2012/07/python-fastest-template.html
+
+Codementor: How should I start learning Python
+https://www.codementor.io/narendranareshit/how-should-i-start-learning-python-18dmbgg5pu
+
+Mike Driscoll: Python 101 – Creating Multiple Processes
+https://www.blog.pythonlibrary.org/2020/07/15/python-101-creating-multiple-processes/
+
+PSF GSoC students blogs: Week 6 Check-in
+https://blogs.python-gsoc.org/en/joaosferreiras-blog/week-6-check-in-2/
+
+PSF GSoC students blogs: Week 7 check-in!
+https://blogs.python-gsoc.org/en/imaj_ashwinis-blog/week-7-check-in-1/
+
+Codementor: Your First Stock Trading Bot 🤖🐍Part 2: Buy &amp; Sell Stocks in Python w/ Alpaca!
+https://www.codementor.io/powderblock/your-first-stock-trading-bot-part-2-buy-sell-stocks-in-python-w-alpaca-15i9btwqyi
+
+NumFOCUS: Open Source Developer Advocate
+https://numfocus.org/jobs/open-source-developer-advocate?utm_source=rss&utm_medium=rss&utm_campaign=open-source-developer-advocate
+
+PyCoder’s Weekly: Issue #429 (July 14, 2020)
+https://pycoders.com/issues/429
+
+EuroPython: EuroPython 2020: Please configure your tickets
+https://blog.europython.eu/post/623636263112720384
+
+Real Python: Grow Your Python Portfolio With 13 Intermediate Project Ideas
+https://realpython.com/courses/intermediate-project-ideas/
+
+Janusworx: A Hundred Days of Code, Day 007 - Python Basics, Variables, Basic Data Types, Strings and Loops
+https://janusworx.com/blog/a-hundred-days-of-code-day-007-python-basics-variables-basic-data-types-strings-and-loops/
+
+Kushal Das: Introducing pyage-rust, a Python module for age encryption
+https://kushaldas.in/posts/introducing-pyage-rust-a-python-module-for-age-encryption.html
+
+PSF GSoC students blogs: Check-in for week 6
+https://blogs.python-gsoc.org/en/lukas0907s-blog/check-in-for-week-6/
+
+Mike Driscoll: An Overview of JupyterLab (Video)
+https://www.blog.pythonlibrary.org/2020/07/14/an-overview-of-jupyterlab-video/
+
+Anarcat: Not recommending Purism
+https://anarc.at/blog/2020-07-13-not-recommending-purism/
+
+PSF GSoC students blogs: Weekly Check-In | Gsoc'2020 | #7
+https://blogs.python-gsoc.org/en/shashankjarials-blog/weekly-check-in-gsoc-2020-7/
+
+PSF GSoC students blogs: Weekly Check-in #7
+https://blogs.python-gsoc.org/en/aghinsas-blog/weekly-check-in-7-6/
+
+Python Software Foundation: Pip team midyear report
+http://feedproxy.google.com/~r/PythonSoftwareFoundationNews/~3/ajy0RSDt9zE/pip-team-midyear-report.html
+
+Podcast.__init__: The Past, Present, And Future Of The FLUFL: Barry Warsaw Shares His History With Python
+https://www.pythonpodcast.com/barry-warsaw-the-flufl-episode-271/
+
+Python Insider: Python 3.8.4 is now available
+http://feedproxy.google.com/~r/PythonInsider/~3/axwqVdRQ-7I/python-384-is-now-available.html
+
+PSF GSoC students blogs: Image Classification - Weekly Check-in 7
+https://blogs.python-gsoc.org/en/sakshamaroras-blog/image-classification-weekly-check-in-7/
+
+PSF GSoC students blogs: Weekly Check-in #7
+https://blogs.python-gsoc.org/en/0dusts-blog/weekly-check-in-7-5/
+
+Catalin George Festila: Python 3.8.3 : Short intro to Appium-Python-Client python package.
+http://python-catalin.blogspot.com/2020/07/python-383-short-intro-to-appium-python.html
+
+PSF GSoC students blogs: Weekly Check In #4
+https://blogs.python-gsoc.org/en/dvijaywargiyas-blog/weekly-check-in-4-10/
+
+Python 101 – Creating Multiple Processes
+https://www.blog.pythonlibrary.org/2020/07/15/python-101-creating-multiple-processes/
+
+An Overview of JupyterLab (Video)
+https://www.blog.pythonlibrary.org/2020/07/14/an-overview-of-jupyterlab-video/
+
+PyDev of the Week: Dr. David Pena
+https://www.blog.pythonlibrary.org/2020/07/13/pydev-of-the-week-dr-david-pena/
+
+wxPython by Example – Creating a wx.Notebook (Video)
+https://www.blog.pythonlibrary.org/2020/07/10/wxpython-by-example-creating-a-wx-notebook/
+
+Python 101 – Learning about Dictionaries (Video)
+https://www.blog.pythonlibrary.org/2020/07/08/python-101-learning-about-dictionaries-video/
+
+Python 101 – Debugging Your Code with pdb
+https://www.blog.pythonlibrary.org/2020/07/07/python-101-debugging-your-code-with-pdb/
+
+PyDev of the Week: Philip James
+https://www.blog.pythonlibrary.org/2020/07/06/pydev-of-the-week-philip-james/
+
+Using Widgets in Jupyter Notebook (Video)
+https://www.blog.pythonlibrary.org/2020/07/05/using-widgets-in-jupyter-notebook-video/
+
+Python 101 – Learning About Tuples (Video)
+https://www.blog.pythonlibrary.org/2020/07/01/python-101-learning-about-tuples-video/
+
+Python 101 – Launching Subprocesses with Python
+https://www.blog.pythonlibrary.org/2020/06/30/python-101-launching-subprocesses-with-python/
+
+Python Ternary Elif
+https://blog.finxter.com/python-ternary-elif/
+
+Python Ternary Multiple Lines
+https://blog.finxter.com/python-ternary-multiple-lines/
+
+Python Ternary Lambda
+https://blog.finxter.com/python-ternary-lambda/
+
+Python Ternary Dictionary
+https://blog.finxter.com/python-ternary-dictionary/
+
+The World’s Most Concise Python Cheat Sheet
+https://blog.finxter.com/concise-python-cheat-sheet/
+
+101+ Free Python Books
+https://blog.finxter.com/free-python-books/
+
+Python Ternary — Tuple Syntax Hack
+https://blog.finxter.com/python-ternary-tuple/
+
+Python One Line Ternary
+https://blog.finxter.com/python-one-line-ternary/
+
+Python One Line Quicksort
+https://blog.finxter.com/python-one-line-quicksort/
+
+Python One Line X
+https://blog.finxter.com/python-one-line-x/
+
+Grow Your Python Portfolio With 13 Intermediate Project Ideas
+https://realpython.com/courses/intermediate-project-ideas/
+
+Learn IP Address Concepts With Python's ipaddress Module
+https://realpython.com/python-ipaddress-module/
+
+The Real Python Podcast – Episode #17: Linear Programming, PySimpleGUI, and More
+https://realpython.com/podcasts/rpp/17/
+
+Python import: Advanced Techniques and Tips
+https://realpython.com/python-import/
+
+Pointers and Objects in Python
+https://realpython.com/courses/pointers-python/
+
+Object-Oriented Programming (OOP) in Python 3
+https://realpython.com/python3-object-oriented-programming/
+
+The Real Python Podcast – Episode #16: Thinking in Pandas: Python Data Analysis the Right Way
+https://realpython.com/podcasts/rpp/16/
+
+Get Started With Django Part 2: Django User Management
+https://realpython.com/django-user-management/
+
+Unicode in Python: Working With Character Encodings
+https://realpython.com/courses/python-unicode/
+
+Python's reduce(): From Functional to Pythonic Style
+https://realpython.com/python-reduce-function/
+
+The Real Python Podcast – Episode #15: Python Regular Expressions, Views vs Copies in Pandas, and More
+https://realpython.com/podcasts/rpp/15/
+
+The Python heapq Module: Using Heaps and Priority Queues
+https://realpython.com/python-heapq-module/
+
+Creating a Discord Bot in Python
+https://realpython.com/courses/discord-bot-python/
+
+Hands-On Linear Programming: Optimization With Python
+https://realpython.com/linear-programming-python/
+
+The Real Python Podcast – Episode #14: Going Serverless with Python
+https://realpython.com/podcasts/rpp/14/
+
+PySimpleGUI: The Simple Way to Create a GUI With Python
+https://realpython.com/pysimplegui-python/
+
+Python Generators 101
+https://realpython.com/courses/python-generators/
+
+Python Keywords: An Introduction
+https://realpython.com/python-keywords/
+
+The Real Python Podcast – Episode #13: PDFs in Python and Projects on the Raspberry Pi
+https://realpython.com/podcasts/rpp/13/
+
+SettingWithCopyWarning in Pandas: Views vs Copies
+https://realpython.com/pandas-settingwithcopywarning/
+
+Getting the Most Out of a Python Traceback
+https://realpython.com/courses/python-traceback/
+
+The Real Python Podcast – Episode #12: Web Scraping in Python: Tools, Techniques, and Legality
+https://realpython.com/podcasts/rpp/12/
+
+Parallel Iteration With Python's zip() Function
+https://realpython.com/courses/python-zip-function/
+
+The Real Python Podcast – Episode #11: Advice on Getting Started With Testing in Python
+https://realpython.com/podcasts/rpp/11/
+
+A Beginner's Guide to Pip
+https://realpython.com/courses/what-is-pip/
+
+The Real Python Podcast – Episode #10: Python Job Hunting in a Pandemic
+https://realpython.com/podcasts/rpp/10/
+
+Convert a Python String to int
+https://realpython.com/courses/convert-python-string-int/
+
+The Real Python Podcast – Episode #9: Leveling Up Your Python Literacy and Finding Python Projects to Study
+https://realpython.com/podcasts/rpp/9/
+
+Improve Your Tests With the Python Mock Object Library
+https://realpython.com/courses/python-mock-object-library/
+
+The Real Python Podcast – Episode #8: Docker + Python for Data Science and Machine Learning
+https://realpython.com/podcasts/rpp/8/
+
+Python 3.8.4 is now available
+http://feedproxy.google.com/~r/PythonInsider/~3/axwqVdRQ-7I/python-384-is-now-available.html
+
+Python 3.9.0b4 is now ready for testing
+http://feedproxy.google.com/~r/PythonInsider/~3/gnNNy4s6QP4/python-390b4-is-now-ready-for-testing.html
+
+Python 3.8.4rc1 is now ready for testing
+http://feedproxy.google.com/~r/PythonInsider/~3/kzERsqt8U34/python-384rc1-is-now-ready-for-testing.html
+
+Python 3.7.8 and 3.6.11 now available - last 3.7.x bugfix release
+http://feedproxy.google.com/~r/PythonInsider/~3/v2lSBwm0qQ0/python-378-and-3611-now-available-last.html
+
+Python 3.7.8rc1 and 3.6.11rc1 now available for testing
+http://feedproxy.google.com/~r/PythonInsider/~3/Kb16lJ9pEtA/python-378rc1-and-3611rc1-now-available.html
+
+Python 3.9.0b3 is now available for testing
+http://feedproxy.google.com/~r/PythonInsider/~3/VCcgeT4Dihg/python-390b3-is-now-available-for.html
+
+Python 3.9.0b1 is now available for testing
+http://feedproxy.google.com/~r/PythonInsider/~3/zcBz2nvff1w/python-390b1-is-now-available-for.html
+
+Python 3.8.3 is now available
+http://feedproxy.google.com/~r/PythonInsider/~3/Ae5Lv6hpDyM/python-383-is-now-available.html
+
+Pip 20.1 has been released
+http://feedproxy.google.com/~r/PythonInsider/~3/6Lb4AOXLqx4/pip-20-1-released.html
+
+Python 3.9.0a6 is now available for testing
+http://feedproxy.google.com/~r/PythonInsider/~3/UI7yZREJWY4/python-390a6-is-now-available-for.html
+
+Python 2.7.18, the last release of Python 2
+http://feedproxy.google.com/~r/PythonInsider/~3/MYraY2fq0jI/python-2718-last-release-of-python-2.html
+
+Python 2.7.18 release candidate 1 available
+http://feedproxy.google.com/~r/PythonInsider/~3/K1JPIqUkG1o/python-2718-release-candidate-1.html
+
+Python 3.9.0a5 is now available for testing
+http://feedproxy.google.com/~r/PythonInsider/~3/lW-tcArtd80/python-390a5-is-now-available-for.html
+
+Python 3.7.7 is now available
+http://feedproxy.google.com/~r/PythonInsider/~3/40CnpExx-ZY/python-377-is-now-available.html
+
+Python 3.7.7rc1 is now available for testing
+http://feedproxy.google.com/~r/PythonInsider/~3/WF_JeauGpYs/python-377rc1-is-now-available-for.html
+
+Python 3.8.2 and 3.9.0a4 are now available
+http://feedproxy.google.com/~r/PythonInsider/~3/zN9QnJ9Ipn8/python-382-and-390a4-are-now-available.html
+
+Python 3.8.2rc2 is now available for testing
+http://feedproxy.google.com/~r/PythonInsider/~3/joiaVm8KWn8/python-382rc2-is-now-available-for.html
+
+Python 3.9.0a3 now available for testing
+http://feedproxy.google.com/~r/PythonInsider/~3/en_sY5UnpQk/python-390a3-now-available-for-testing.html
+
+Python 3.8.1, 3.7.6, 3.6.10, and 3.9.0a2 are now available!
+http://feedproxy.google.com/~r/PythonInsider/~3/F67HAXZew8A/python-381-376-3610-and-390a2-are-now.html
+
+Python 3.7.6rc1 and 3.6.10rc1 are now available for testing
+http://feedproxy.google.com/~r/PythonInsider/~3/u-RWoxRRaOQ/python-376rc1-and-3610rc1-are-now.html
+
+Python 3.8.1rc1 is now available for testing
+http://feedproxy.google.com/~r/PythonInsider/~3/of_F9IzoM6Y/python-381rc1-is-now-available-for.html
+
+Python 3.5.9 is released
+http://feedproxy.google.com/~r/PythonInsider/~3/D5sAVdxYnzY/python-359-is-released.html
+
+Python 3.5.8 is now available
+http://feedproxy.google.com/~r/PythonInsider/~3/Pirbj3v2YiI/python-358-is-now-available.html
+
+Python 2.7.17 released
+http://feedproxy.google.com/~r/PythonInsider/~3/NSJOxfu3Kw0/python-2717-released.html
+
+Python 3.7.5 is now available
+http://feedproxy.google.com/~r/PythonInsider/~3/JAw1EKIElcE/python-375-is-now-available.html
+
+Why you should use typing for all your Python projects
+https://medium.com/python4you/why-you-should-use-typing-for-all-your-python-projects-c3dd47a015af?source=rss----5527f69f4771---4
+
+“Effective Python” by Brett Slatkin book review
+https://medium.com/python4you/effective-python-by-brett-slatkin-book-review-30721bb4bf20?source=rss----5527f69f4771---4
+
+Consider absl Python library to work with flags
+https://medium.com/python4you/consider-absl-python-library-to-work-with-flags-a69b536e6b61?source=rss----5527f69f4771---4
+
+5 Scraping Tips
+https://medium.com/python4you/5-scraping-tips-1827f27197b5?source=rss----5527f69f4771---4
+
+Ranking capitals by the number of Starbucks using Python and Google Maps API
+https://medium.com/python4you/ranking-capitals-by-the-number-of-starbucks-2f4080680267?source=rss----5527f69f4771---4
+
+Python Functions Defaults Explained
+https://medium.com/python4you/python-functions-defaults-explained-ee962c7c6f7a?source=rss----5527f69f4771---4
+
+RabbitMQ Scrapy Item Publisher in Python
+https://medium.com/python4you/rabbitmq-scrapy-item-publisher-in-python-4c66a985e3cb?source=rss----5527f69f4771---4
+
+Calling Celery Tasks not from Python
+https://medium.com/python4you/calling-celery-tasks-not-from-python-699bd635d317?source=rss----5527f69f4771---4
+
+Python IO streams in examples
+https://medium.com/python4you/python-io-streams-in-examples-97d2c4367207?source=rss----5527f69f4771---4
+
+Creating Telegram Bot and deploying it on Heroku
+https://medium.com/python4you/creating-telegram-bot-and-deploying-it-on-heroku-471de1d96554?source=rss----5527f69f4771---4
+
+#272 No IoT things in hand? Simulate them with Device Simulator Express
+https://talkpython.fm/episodes/show/272/no-iot-things-in-hand-simulate-them-with-device-simulator-express
+
+#271 Unlock the mysteries of time, Python's datetime that is!
+https://talkpython.fm/episodes/show/271/unlock-the-mysteries-of-time-pythons-datetime-that-is
+
+#270 Python in supply chains: oil rigs, rockets, and lettuce
+https://talkpython.fm/episodes/show/270/python-in-supply-chains-oil-rigs-rockets-and-lettuce
+
+#269 HoloViz - a suite of tools for Python visualization
+https://talkpython.fm/episodes/show/269/holoviz-a-suite-of-tools-for-python-visualization
+
+#268 Analyzing dozens of notebook environments
+https://talkpython.fm/episodes/show/268/analyzing-dozens-of-notebook-environments
+
+#267 15 amazing pytest plugins
+https://talkpython.fm/episodes/show/267/15-amazing-pytest-plugins
+
+#266 Refactoring your code, like magic with Sourcery
+https://talkpython.fm/episodes/show/266/refactoring-your-code-like-magic-with-sourcery
+
+#265 Why is Python slow?
+https://talkpython.fm/episodes/show/265/why-is-python-slow
+
+#264 10 tips every Flask developer should know
+https://talkpython.fm/episodes/show/264/10-tips-every-flask-developer-should-know
+
+#263 SEO for developers
+https://talkpython.fm/episodes/show/263/seo-for-developers
+
+#262 Build a career in data science
+https://talkpython.fm/episodes/show/262/build-a-career-in-data-science
+
+#261 Monitoring and auditing machine learning
+https://talkpython.fm/episodes/show/261/monitoring-and-auditing-machine-learning
+
+#260 From basic script to interactive data sci app with Streamlit
+https://talkpython.fm/episodes/show/260/from-basic-script-to-interactive-data-sci-app-with-streamlit
+
+#259 From Academia to Tech Industry and Python
+https://talkpython.fm/episodes/show/259/from-academia-to-tech-industry-and-python
+
+#258 Thriving in a remote developer environment
+https://talkpython.fm/episodes/show/258/thriving-in-a-remote-developer-environment
+
+#257 Exploring the galaxy with the fastest supercomputer, Python, and radio astronomy
+https://talkpython.fm/episodes/show/257/exploring-the-galaxy-with-the-fastest-supercomputer-python-and-radio-astronomy
+
+#256 Click to run your notebook with Binder
+https://talkpython.fm/episodes/show/256/click-to-run-your-notebook-with-binder
+
+#255 Talking to cars with Python
+https://talkpython.fm/episodes/show/255/talking-to-cars-with-python
+
+#254 A Python mentorship story
+https://talkpython.fm/episodes/show/254/a-python-mentorship-story
+
+#253 Moon base geekout
+https://talkpython.fm/episodes/show/253/moon-base-geekout
+
+#252 What scientific computing can learn from CS
+https://talkpython.fm/episodes/show/252/what-scientific-computing-can-learn-from-cs
+
+#251 Building and UX Testing Azure's Python SDK
+https://talkpython.fm/episodes/show/251/building-and-ux-testing-azures-python-sdk
+
+#250 Capture over 400x C02 as trees with AI and Python
+https://talkpython.fm/episodes/show/250/capture-over-400x-c02-as-trees-with-ai-and-python
+
+#249 Capture the Staff of Pythonic Knowledge in TwilioQuest
+https://talkpython.fm/episodes/show/249/capture-the-staff-of-pythonic-knowledge-in-twilioquest
+
+#248 Climate change and your Python code
+https://talkpython.fm/episodes/show/248/climate-change-and-your-python-code
+
+#247 Solo maintainer of open-source in academia
+https://talkpython.fm/episodes/show/247/solo-maintainer-of-open-source-in-academia
+
